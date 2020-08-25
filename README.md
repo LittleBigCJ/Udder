@@ -1,3 +1,3 @@
 # Udder
 
-This is an for on demand milk
+This is an app for on demand milk
